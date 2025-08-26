@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-ci-demo",
+  "name": "ci",
   "version": "1.0.0",
   "description": "Demo Node.js project with GitHub Actions CI",
   "main": "src/index.js",
